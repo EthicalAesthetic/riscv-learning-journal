@@ -14,7 +14,7 @@ Got a `rars.jar` file, run by `java -jar rars.jar`
 increment and modular ISA
 
 **Next session:**
-write a assemble code to print 1-10 using RARS
+write an assembly code to print 1-10 using RARS
 
 ---
 
