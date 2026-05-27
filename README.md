@@ -3,10 +3,15 @@
 ![RISC-V](https://img.shields.io/badge/RISC--V-Learning-teal?style=flat-square)
 ![Embedded AI](https://img.shields.io/badge/Embedded-AI-blue?style=flat-square)
 ![Open Source](https://img.shields.io/badge/Open-Source-orange?style=flat-square)
+![Contributors welcome](https://img.shields.io/badge/Contributors-Welcome-purple?style=flat-square)
 
-A public learning journal documenting my journey from CS beginner to
-RISC-V embedded AI developer. Started May 2026. Goal: contribute to
-RISC-V International and work in India's growing RISC-V ecosystem.
+>A public learning journal documenting my journey from CS beginner to
+>RISC-V embedded AI developer. Started May 2026. Goal: contribute to
+>RISC-V International and work in India's growing RISC-V ecosystem.
+
+
+**If you are also learning RISC-V, hardware, or embedded AI — this repo
+is for you too. See [CONTRIBUTING.md](./CONTRIBUTING.md).**
 
 ---
 
@@ -81,6 +86,36 @@ riscv-learning-journal/
 
 ---
 
+
+## How to contribute
+
+This is an open learning journal — contributions are welcome from anyone
+learning RISC-V, embedded systems, or embedded AI. You do not need to be
+an expert. In fact, beginners helping beginners is exactly the point.
+
+Ways to contribute:
+- Fix a mistake in my notes or code
+- Add a resource I missed
+- Share your own notes on the same topic
+- Open an issue if something is unclear or wrong
+- Translate any notes into Hindi or another Indian language
+
+**See [CONTRIBUTING.md](./CONTRIBUTING.md) for full details.**
+
+---
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START -->
+| Avatar | Name | Contribution |
+|--------|------|-------------|
+| — | Be the first contributor | Open a PR or an issue |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+> This table gets updated as contributions happen.
+
+---
+
 ## Goals
 
 - [ ] Join RISC-V International as a Community member (free)
@@ -99,17 +134,5 @@ See [daily-log.md](./daily-log.md) for session-by-session notes.
 Each entry covers: what I studied, what confused me, and what's next.
 
 ---
-
-## Open source contributions
-
-| Date | Repository | Contribution | Status |
-|------|-----------|-------------|--------|
-| — | — | None yet — working toward first PR | — |
-
-> This table gets updated as contributions happen.
-
----
-
-
-
+<br><br>
 *Started May 2026 · India · CS student · Building in public*
