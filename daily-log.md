@@ -27,6 +27,12 @@ write a assemble code to print 1-10 using RARS
 
 **What I studied / built:**
 Wrote the assembly code of 1-10 loop in [1-10_Loop.asm](/phase-2-assembly/code/1-10_Loop.asm) <br>
+
+Used the following RISCV assembly instructions: 
+
+<img src="./images/riscv_instructions.png" width="500px" alt="RISC-V instructions used in 1-10 loop">
+
+
 The assembler set of processes is shown in the video -
 [assembler](https://github.com/user-attachments/assets/52587439-ca68-4ed3-9655-200bfd6c5f24) 
 <br>
