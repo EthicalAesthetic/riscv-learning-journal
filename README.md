@@ -109,7 +109,7 @@ Ways to contribute:
 <!-- ALL-CONTRIBUTORS-LIST:START -->
 | Avatar | Name | Contribution |
 |--------|------|-------------|
-| — | Be the first contributor | Open a PR or an issue |
+| <img src="https://github.com/Jah-yee.png" width="50px;" alt=""/> | [Jah-yee](https://github.com/Jah-yee) | Typo Fix |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 > This table gets updated as contributions happen.
