@@ -109,7 +109,7 @@ Ways to contribute:
 <!-- ALL-CONTRIBUTORS-LIST:START -->
 | Avatar | Name | First contribution |
 |--------|------|--------------------|
-| — | Be the first contributor — open a PR! | — |
+| <img src="https://avatars.githubusercontent.com/u/166608075?v=4&s=40" width="40" height="40" alt="Jah-yee"> | [Jah-yee](https://github.com/Jah-yee) | fix: correct 'a assemble' to 'an assembly' typo in daily-log… |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 > This table gets updated as contributions happen.
 
