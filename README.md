@@ -110,6 +110,7 @@ Ways to contribute:
 | Avatar | Name | First contribution |
 |--------|------|--------------------|
 | <img src="https://avatars.githubusercontent.com/u/166608075?v=4&s=40" width="40" height="40" alt="Jah-yee"> | [Jah-yee](https://github.com/Jah-yee) | fix: correct 'a assemble' to 'an assembly' typo in daily-log… |
+| <img src="https://avatars.githubusercontent.com/u/228763106?v=4&s=40" width="40" height="40" alt="svg1png"> | [svg1png](https://github.com/svg1png) | Update: question solve ( reverse loop logic in assembly) |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 > This table gets updated as contributions happen.
 
