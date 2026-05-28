@@ -1,6 +1,6 @@
 # RISC-V Learning Journal
 
-_Last updated: Wed May 27 2026_
+_Last updated: Thu May 28 2026_
 
 ## Phase 1
 
@@ -43,5 +43,26 @@ the register usage in each step of assembler
 
 **Next session:**
 Will do 3 questions regarding this assembly code. And proceed further
+
+---
+
+### 2026-05-28 🙂 — 0.5h
+**Topics:** RISC-V assembly, Open source contribution
+
+**What I studied / built:**
+The Three questions regarding the yesterday's loop assembly program.
+- Change to print from 1-20 ✅
+- Change it to print only even numbers (2,4..10) ✅
+- Change it to print in reverse order (10,9...1) 🔜
+
+Added notes in [asm.md](./phase-1-foundations/notes/asm.md) and left one Questions and created a issue for that.
+
+Main assembly program : [1-10_Loop.asm](./phase-2-assembly/code/1-10_Loop.asm)
+
+**What confused me:**
+Printing in reverse
+
+**Next session:**
+Proceed with C programming
 
 ---
