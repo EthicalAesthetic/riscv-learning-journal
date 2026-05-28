@@ -18,4 +18,15 @@ Here are three questions regarding that program:
 
 #### 3. Change to print in reverse order (10,9..1)
 
-🔜
+*line(s) changed :*
+
+`li t0, 10` (line 11)
+
+`li t1, 1` (line 12)
+
+`blt t0, t1, done` (line 15)
+
+`addi t0, t0, -1` (line 28)
+
+---
+
