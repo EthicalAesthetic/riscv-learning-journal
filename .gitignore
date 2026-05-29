@@ -13,4 +13,4 @@ phase-1-foundations/code/*.o
 phase-1-foundations/code/*.out
 phase-1-foundations/code/*.exe
 phase-1-foundations/code/a.out
-phase-1-foundations/code/output
+phase-1-foundations/code/**/output
