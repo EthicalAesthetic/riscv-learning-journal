@@ -1,6 +1,6 @@
 # RISC-V Learning Journal
 
-_Last updated: Thu May 28 2026_
+_Last updated: Fri May 29 2026_
 
 ## Phase 1
 
@@ -64,5 +64,44 @@ Printing in reverse
 
 **Next session:**
 Proceed with C programming
+
+---
+
+
+
+### 2026-05-29 🙂 — 1h
+**Topics:** C programming, Reading / textbook
+
+**What I studied / built:**
+- main{} function
+- Standard library: <studio.h> gives access to functions like `printf`
+- `\n` Newline `\t`Tab `\b` Backspace `\"` Double quote `\\` Backslash
+-  int, float, long, short, double, char datatypes
+- integer division removes fractional part.. but if one is int and other is float.. int converted to float before operation.
+- `%d` for int `%f` for float ( `%6d` and `%6.1f`)
+- `for` and `while` loop
+- magic numbers (#define LOWER 10)
+- Text Stream (every character in new line)
+- `getchar()` and `putchar()`
+- EOF(End Of FIle) with getchar()
+- `&&` AND `||` OR
+- `==`test for equality `=` assignment operator `if-else` condition
+- Arrays
+- functions and return statement
+- argument passed by value means, temporary variable not original 
+- Exception : Array
+- pointers used to modify 'caller's variable'
+- strings are stored as array of characters terminated by null character `\0`
+- no return value function `void`
+- Local and Global Variable
+- `extern` keyword
+
+**Detailed Notes:** [1.C_Introdution](/phase-1-foundations/notes/textbooks/K&R/1(Tutorial%20Introduction).md)
+
+**What confused me:**
+array, char array, extern keyword
+
+**Next session:**
+Proceed with topics and practice on today's confusing topics
 
 ---
