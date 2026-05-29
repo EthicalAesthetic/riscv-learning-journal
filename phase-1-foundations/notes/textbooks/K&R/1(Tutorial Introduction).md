@@ -49,3 +49,14 @@
 * **Local Variables:** Automatic variables declared inside a function are private to it. They come into existence when the function is called and disappear when the function is exited.
 * **External Variables:** Variables defined outside of any function are external (global) and remain permanently in existence. They can be accessed by any function that declares them, using the `extern` keyword.
 * **Best Practices:** While external variables simplify argument passing, relying on them too heavily is fraught with peril. It leads to programs where data connections are not obvious, variables can be changed inadvertently, and function generality is destroyed.
+
+---
+<br>
+
+# Deeper Knowledge of some topics with examples 
+
+**1.5 Text streams** in NLM [Character input and output](https://notebooklm.google.com/notebook/baa77d9d-457e-4fdf-a733-d8e25d5dc75e)
+
+**1.6 Arrays** in NLM [Array Structures and Logic](https://notebooklm.google.com/notebook/baa77d9d-457e-4fdf-a733-d8e25d5dc75e)
+
+**extern Keyword** in NLM [extern keyword](https://notebooklm.google.com/notebook/baa77d9d-457e-4fdf-a733-d8e25d5dc75e)
