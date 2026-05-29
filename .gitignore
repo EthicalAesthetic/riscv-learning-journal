@@ -1,1 +1,16 @@
 phase-1-foundations/LATER.md
+
+# ─── Compiled C binaries ─────────────────────────────────────────────────────
+# These are produced by gcc. Never commit binaries — only source code.
+*.o          # object files (intermediate compilation output)
+*.out        # default gcc output when you don't use -o flag
+*.exe        # windows executables (if anyone compiles on Windows)
+a.out        # gcc default binary name on Linux
+
+# Any binary you create with -o flag (e.g. gcc hello.c -o hello)
+
+phase-1-foundations/code/*.o 
+phase-1-foundations/code/*.out
+phase-1-foundations/code/*.exe
+phase-1-foundations/code/a.out
+phase-1-foundations/code/output
